@@ -1,5 +1,6 @@
 {
   "name": "feedback-form-app",
+  "homepage": "https://alyanoyigor.github.io/feedback-form-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
