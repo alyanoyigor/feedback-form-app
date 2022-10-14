@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d10672c.css",
-    "main.js": "/static/js/main.75c992bc.js",
-    "static/media/map-circle.png": "/static/media/map-circle.f68f5895908d009b3f04.png",
-    "static/media/purple-smile.svg": "/static/media/purple-smile.4220c8dcf3b44ddaf7d029451917db56.svg",
-    "static/media/yellow-small-smile.svg": "/static/media/yellow-small-smile.179e57058940ba845986cde83b6c7412.svg",
-    "static/media/yellow-big-smile.svg": "/static/media/yellow-big-smile.f3192839a60e1b61e981e79b27296124.svg",
-    "static/media/turquoise-smile.svg": "/static/media/turquoise-smile.399df32776421d98ed8c24f3f6672b15.svg",
-    "static/media/pinterest.svg": "/static/media/pinterest.ab414482e2fc8f30fbce2d74a31fdc83.svg",
-    "static/media/twitter.svg": "/static/media/twitter.73a13cdcdc77833228ff9052a946c5dd.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.f17aefdc85ac60c31dc7d61c860f66bc.svg",
-    "index.html": "/index.html",
-    "static/media/facebook.svg": "/static/media/facebook.ec543a38cadb0c3583c76a7a897132ec.svg",
-    "main.3d10672c.css.map": "/static/css/main.3d10672c.css.map",
-    "main.75c992bc.js.map": "/static/js/main.75c992bc.js.map"
+    "main.css": "/feedback-form-app/static/css/main.3d10672c.css",
+    "main.js": "/feedback-form-app/static/js/main.014e4602.js",
+    "static/media/map-circle.png": "/feedback-form-app/static/media/map-circle.f68f5895908d009b3f04.png",
+    "static/media/purple-smile.svg": "/feedback-form-app/static/media/purple-smile.4220c8dcf3b44ddaf7d029451917db56.svg",
+    "static/media/yellow-small-smile.svg": "/feedback-form-app/static/media/yellow-small-smile.179e57058940ba845986cde83b6c7412.svg",
+    "static/media/yellow-big-smile.svg": "/feedback-form-app/static/media/yellow-big-smile.f3192839a60e1b61e981e79b27296124.svg",
+    "static/media/turquoise-smile.svg": "/feedback-form-app/static/media/turquoise-smile.399df32776421d98ed8c24f3f6672b15.svg",
+    "static/media/pinterest.svg": "/feedback-form-app/static/media/pinterest.ab414482e2fc8f30fbce2d74a31fdc83.svg",
+    "static/media/twitter.svg": "/feedback-form-app/static/media/twitter.73a13cdcdc77833228ff9052a946c5dd.svg",
+    "index.html": "/feedback-form-app/index.html",
+    "static/media/linkedin.svg": "/feedback-form-app/static/media/linkedin.f17aefdc85ac60c31dc7d61c860f66bc.svg",
+    "static/media/facebook.svg": "/feedback-form-app/static/media/facebook.ec543a38cadb0c3583c76a7a897132ec.svg",
+    "main.3d10672c.css.map": "/feedback-form-app/static/css/main.3d10672c.css.map",
+    "main.014e4602.js.map": "/feedback-form-app/static/js/main.014e4602.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.75c992bc.js"
+    "static/js/main.014e4602.js"
   ]
 }
